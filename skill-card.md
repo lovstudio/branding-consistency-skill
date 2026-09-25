@@ -1,4 +1,4 @@
-# Skill Card — lov-branding-consistency
+# 品牌审校官 · Brand Editor · Skill Card
 
 ## Description
 
@@ -51,7 +51,7 @@ component、audience、moment、job、brand role、tone、constraints 与 visibi
 
 ## Skill Version
 
-0.2.0
+0.3.0
 
 ## Ethical Considerations
 
